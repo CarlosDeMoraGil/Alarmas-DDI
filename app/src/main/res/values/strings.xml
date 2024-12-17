@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Alarma</string>
+
+    <string name="alarma">Alarma</string>
+    <string name="world">Reloj multinacional</string>
+    <string name="chronometer">Cronometro\n</string>
+    <string name="timer">Temporizdor</string>
+    <string name="add_alarm">Añadir alarma</string>
+
+</resources>
